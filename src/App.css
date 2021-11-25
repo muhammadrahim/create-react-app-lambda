@@ -30,3 +30,71 @@
     transform: rotate(360deg);
   }
 }
+@import 'https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900';
+@import 'https://fonts.googleapis.com/css?family=Great+Vibes';
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #BDC3C7;
+  font-family: 'Raleway';
+}
+
+.top {
+  background: url(http://ksassets.timeincuk.net/wp/uploads/sites/46/2016/10/Twilight-wedding-dress-Bella-and-Edward.jpg) no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.25);
+}
+
+.form {
+  height: 590px;
+  width: 400px;
+  background-color: #fff;
+  margin: -110px auto;
+  border-radius: 10px;
+  color: #666;
+  padding: 0px 0px;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.25);
+}
+
+.info {
+  padding: 10px;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  padding: 0px;
+  margin: 5px 5px;
+}
+
+h2 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 100;
+}
+
+p.line {
+  margin: 0px auto 20px auto;
+  color: #999;
+}
+
+.smallprint {
+  padding: 40px;
+  text-align: center;
+  font-size: 0.7em;
+  font-weight: 600;
+}
+
+.bottom {
+  padding: 0px;
+  text-align: center;
+  font-size: 0.7em;
+  bottom: 0;
+}
