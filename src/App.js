@@ -58,10 +58,10 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          {/* <img src={logo} className="App-logo" alt="logo" />
           <p>
             You're invited to Ishmael & Sindy's wedding!
-          </p>
+          </p> */}
           <LambdaDemo />
         </header>
       </div>
