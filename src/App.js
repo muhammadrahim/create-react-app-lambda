@@ -1,5 +1,4 @@
 import React, { Component } from "react"
-// import logo from "./logo.svg"
 import "./App.css"
 
 class LambdaDemo extends Component {
@@ -18,7 +17,6 @@ class LambdaDemo extends Component {
   }
 
   render() {
-    // const { loading, msg } = this.state
 
     return (
 <body>
@@ -58,10 +56,6 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            You're invited to Ishmael & Sindy's wedding!
-          </p> */}
           <LambdaDemo />
         </header>
       </div>
