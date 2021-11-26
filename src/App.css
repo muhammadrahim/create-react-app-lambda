@@ -44,7 +44,7 @@ body {
 }
 
 .top {
-  background: url(src/img.jpg) no-repeat;
+  background: url(img.jpg) no-repeat;
   background-size: cover;
   height: 300px;
   margin: 0;
