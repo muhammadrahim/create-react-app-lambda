@@ -20,6 +20,8 @@ class LambdaDemo extends Component {
 
     return (
 <body>
+  <div class="top">
+  </div>
   <div class="form">
     <div class="info">
       <h1>You've been invited</h1>
