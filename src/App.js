@@ -23,6 +23,7 @@ class LambdaDemo extends Component {
   <div class="top">
   </div>
   <div class="form">
+    <div class="couple"></div>
     <div class="info">
       <h1>You've been invited</h1>
       <h2>for the wedding of</h2>
