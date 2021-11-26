@@ -24,7 +24,7 @@ class LambdaDemo extends Component {
     </div>
     <div class="form">
         <div class="info">
-        <img src="img.jpg"></img>
+        <img src="img.jpg" alt="Ishmael and Cindy"></img>
         <h1>You've been invited</h1>
         <h2>for the wedding of</h2>
         <h1>Ishmael & Sindy</h1>
