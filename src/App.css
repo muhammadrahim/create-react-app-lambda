@@ -43,26 +43,21 @@ body {
   font-family: 'Raleway';
 }
 
-.top {
-  background-color: #BDC3C7;
-  background-size: cover;
-  background: url(img.jpg) no-repeat;
-  height: 300px;
-  margin: 0;
-  padding: 0;
-  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.25);
-}
 
-.couple {
-  background: url(img.jpg) no-repeat;
+img {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 50%;
+  margin: 0 auto;
 }
 
 .form {
-  height: 790px;
+  height: 890px;
   width: 580px;
   background-color: #fff;
-  margin: -110px auto;
+  margin: 0px auto;
   border-radius: 10px;
   color: #666;
   padding: 10px 10px;
