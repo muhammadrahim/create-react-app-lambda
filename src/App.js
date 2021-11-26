@@ -33,7 +33,7 @@ class LambdaDemo extends Component {
       <p>4:00 PM</p>
       <br></br>
       <h2>Ceremony</h2>
-      <p>Amstelveen Town Hallr</p>
+      <p>Amstelveen Town Hall</p>
       <p>Nieuwer-Amstel 1, 1182 JR Amstelveen</p>
       <p class="line">________________________________________</p>
       <div class='smallprint'>
